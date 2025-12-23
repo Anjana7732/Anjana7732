@@ -31,5 +31,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anjana7732&icon=0&color=13)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Anjana7732&color=blue)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
