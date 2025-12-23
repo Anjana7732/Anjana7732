@@ -1,6 +1,12 @@
 # 💫 About Me:
 ## ૮₍´˶• . • ⑅ ₎ა
- ⋆˚🐾˖° Full-Stack Developer (MERN) | JavaScript Enthusiast  <br>🤖 Passionate about **AI tools**, automation & smart hacks  <br>🔭 Constantly learning and building cool stuff <br>📚 I love learning new things, experimenting with ideas, and improving my skills every day.  <br>💡 I enjoy building projects that solve real problems and enhance user experience. <br>🌱 Currently Learning:  <br>- Advanced JavaScript  <br>- Full-Stack Development  <br>- AI tools & automation <br>࣪ ִֶָ☾.<br>🚀 Curious mind. Growing skills. Big goals. ⋆.˚🦋༘⋆<br>
+### Full-Stack Developer (MERN) | JavaScript Enthusiast  
+#### My curiosities have always been pushing me into learning more and get new ideas everyday. 
+ 
+ ## 🌱 Currently Learning:  <br>
+ ### - Advanced JavaScript  <br>- Full-Stack Development  <br>- AI tools & automation <br>
+ 
+ ## Curious mind. Growing skills. Big goals. ⋆.˚🦋༘⋆<br>
 
 
 ## 🌐 Socials:
