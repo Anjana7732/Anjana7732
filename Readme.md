@@ -24,16 +24,8 @@
 
 ### ִֶָ🌷 ִֶָ˖𓂃 ִֶָ 𝙲𝚞𝚛𝚒𝚘𝚞𝚜 𝚖𝚒𝚗𝚍. 𝙶𝚛𝚘𝚠𝚒𝚗𝚐 𝚂𝚔𝚒𝚕𝚕𝚜. 𝙱𝚒𝚐 𝙳𝚛𝚎𝚊𝚖𝚜. ⋆.˚🦋⋆
 
-<p align="center">
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Cute Ginger Cat" width="600"/>
-</p>
-
 ---
 
-## 🏅 My GitHub Badges <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
-
----
 
 ## 🌐 Connect With Me: <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
 <p align="center">
@@ -61,7 +53,7 @@
 ## 📊 GitHub Stats Dashboard: <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anjana7732&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  
   <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Anjana7732&theme=ambient_gradient&hide_border=false" alt="GitHub Streak" />
 </p>
 
@@ -100,7 +92,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=50&duration=2000&pause=1000&color=FF69B4,9370DB,87CEEB&center=true&vCenter=true&width=1000&height=100&lines=✨+THANKS+FOR+VISITING!+✨;💖+HAPPY+CODING!+💖;🌸+KEEP+LEARNING!+🌸" alt="Thanks Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=50&duration=2000&pause=1000&color=FF69B4,9370DB,87CEEB&center=true&vCenter=true&width=1000&height=100&lines=✨+THANKS+FOR+VISITING!+✨;🍁+HAPPY+CODING!+🍁;🌸+KEEP+LEARNING!+🌸" alt="Thanks Message" />
 </p>
 
 <p align="center">
