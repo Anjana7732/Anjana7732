@@ -85,7 +85,6 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Anjana7732&icon=5&color=gradient" alt="Visit Count" />
   <img src="https://komarev.com/ghpvc/?username=Anjana7732&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
